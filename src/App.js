@@ -3,7 +3,11 @@ import "./App.css";
 
 class App extends Component {
   render() {
-    return <div>this is ganesh.keegaa.com</div>;
+    return (
+      <div>
+        <h1>this is ganesh.keegaa.com</h1>
+      </div>
+    );
   }
 }
 
